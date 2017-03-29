@@ -1,0 +1,3 @@
+/Users/bazzaouichaymae/Documents/TP1_IMG/test-opencv/test-opencv/CMakeFiles/rebuild_cache.dir
+/Users/bazzaouichaymae/Documents/TP1_IMG/test-opencv/test-opencv/CMakeFiles/edit_cache.dir
+/Users/bazzaouichaymae/Documents/TP1_IMG/test-opencv/test-opencv/CMakeFiles/main.dir
