@@ -151,7 +151,6 @@ int main(int, char**)
     }
 
     
-    moy = 0;
     if (source.empty()){
         cout <<"impossible de charger l'image "<<endl;
         return -1;
